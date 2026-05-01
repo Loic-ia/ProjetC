@@ -1,4 +1,4 @@
-# Vérificateur de nombres premiers en C
+# Nombres premiers en C
 
 Ce projet permet de vérifier si un nombre entier est un premier ou pas.
 
